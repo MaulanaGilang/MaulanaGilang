@@ -33,14 +33,14 @@
 **Languages**
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="36" height="36"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg" alt="SQL" title="SQL" width="36" height="36"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" title="SQL" width="36" height="36"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="36" height="36"/>
 </p>
 
 **Analytics & BI**
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="36" height="36"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" title="Power BI" width="36" height="36"/>&nbsp;
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/microsoft-power-bi.svg" alt="Power BI" title="Power BI" width="36" height="36"/>&nbsp;
 <img src="https://cdn.simpleicons.org/looker/4285F4" alt="Looker" title="Looker" width="36" height="36"/>&nbsp;
 <img src="https://cdn.simpleicons.org/googlesheets/34A853" alt="Spreadsheet" title="Spreadsheet" width="36" height="36"/>
 </p>
