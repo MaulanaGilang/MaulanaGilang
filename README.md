@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Gilang Maulana 👋</h1>
+<h2 align="left">Hi, I'm Gilang Maulana 👋</h2>
 <h3 align="left">Analyst turning operational data into working systems — moving into Data Engineering</h3>
 
 ---
@@ -9,7 +9,6 @@
 - 🔧 **Currently building:** a data engineering project (pipelines, ETL, and structured data workflows) to move beyond dashboards and into the systems that feed them
 - 🌱 **Currently learning:** Python, SQL, and data engineering fundamentals (ETL, pipelines, cloud data tools)
 - 🎯 **Goal:** transition from operational/business analytics into data engineering
-- 📫 **Reach me:** maulana.gilang305@gmail.com
 
 ---
 
