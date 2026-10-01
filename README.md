@@ -1,7 +1,10 @@
-<h2 align="left">Hi, I'm Gilang Maulana 👋</h2>
-<h3 align="left">Analyst turning operational data into working systems — moving into Data Engineering</h3>
+<img src="./banner.png" alt="From Dashboards to the Pipelines Behind Them" width="100%"/>
+
+### Hi, I'm Gilang Maulana 👋
 
 ---
+
+Analyst turning operational data into working systems — moving into Data Engineering
 
 ### About Me
 
