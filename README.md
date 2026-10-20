@@ -2,8 +2,6 @@
 
 ### Hi, I'm Gilang Maulana 👋
 
----
-
 Analyst turning operational data into working systems — moving into Data Engineering
 
 ### About Me
