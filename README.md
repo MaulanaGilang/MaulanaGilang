@@ -7,8 +7,8 @@ Analyst turning operational data into working systems — moving into Data Engin
 ### About Me
 
 - 💼 **Experience:** General Services Analyst → IT & Maintenance Analyst at **Rata.id** — built ticketing and asset-management dashboards covering **3,000+ tickets** and **1,000+ company assets**, and automated processes that cut manual work from minutes to seconds
-- 🔧 **Currently building:** a data engineering project (pipelines, ETL, and structured data workflows) to move beyond dashboards and into the systems that feed them
-- 🌱 **Currently learning:** Python, SQL, and data engineering fundamentals (ETL, pipelines, cloud data tools)
+- 🔧 **Built:** an e-commerce clickstream batch pipeline on **AWS S3, Snowflake, dbt and Apache Airflow**: daily files land in S3, load into Snowflake, get modelled with dbt and run on an Airflow schedule
+- 🌱 **Currently learning:** deeper Python, SQL and data engineering practice (orchestration, data modelling, cloud data tools)
 - 🎯 **Goal:** transition from operational/business analytics into data engineering
 
 ---
@@ -17,6 +17,9 @@ Analyst turning operational data into working systems — moving into Data Engin
 
 **Data Engineering & Cloud**
 <p>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws.svg" alt="AWS" title="AWS (S3)" width="36" height="36"/>&nbsp;
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/snowflake-icon.svg" alt="Snowflake" title="Snowflake" width="36" height="36"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" title="Apache Airflow" width="36" height="36"/>&nbsp;
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/databricks-icon.svg" alt="Databricks" title="Databricks" width="36" height="36"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="Spark" title="Apache Spark" width="36" height="36"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" title="Microsoft Azure" width="36" height="36"/>&nbsp;
